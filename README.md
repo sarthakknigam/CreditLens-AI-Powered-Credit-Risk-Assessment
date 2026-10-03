@@ -1,4 +1,4 @@
-#  CreditRisk AI
+#  CreditLens — AI-Powered Credit Risk Assessment
 
 An end-to-end **Machine Learning Credit Risk Prediction System** that estimates the probability of loan default using applicant financial, loan, and credit-history information.
 
