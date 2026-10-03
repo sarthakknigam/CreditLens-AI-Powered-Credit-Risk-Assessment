@@ -476,9 +476,9 @@ A production credit-risk system would require additional validation, fairness an
 
 #  Author
 
-**Mahi Singh**
+**Sarthak Nigam**
 
-B.Tech Student | Full Stack Developer | Machine Learning Enthusiast
+B.Tech Student | Machine Learning | Agentic AI 
 
 ---
 
